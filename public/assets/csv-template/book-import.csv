@@ -1,0 +1,9 @@
+﻿isbn_number,code,title,sub_title,category,author,price,quantity,edition,edition_year,language,publisher,publish_year,series,rack_location,total_pages,source
+ISBN00123,BCC,Business Communication,sub 1,TEXT,RP Bohara,210,10,1st,2014,Nepali,Ekta,2014,1st,101,500,BUY
+ISBN00124,NOV,Novel first,sub 2,NOVEL,Ram,350,10,2nd,2014,Hindi,Sajha,2015,2nd,102,300,GIEFT
+ISBN00125,ACC,Accounting Concept,sub 3,REFERENCE,Shyam,600,5,3rd,2014,English,Ekta,2016,3rd,103,200,BUY
+ISBN00126,ECO,Economics Concept,sub 4,Manual,Hari,400,10,4th,2014,Nepali,Sajha,2017,4th,104,400,GIEFT
+ISBN00127,NEP,Nepali,sub 5,TEXT,Gita,980,10,5th,2014,Hindi,Ekta,2018,1st,105,210,BUY
+ISBN00128,GOV,Government Account,sub 6,NOVEL,Sita,452,5,6th,2014,English,Sajha,2019,2nd,106,350,GIEFT
+ISBN00129,HR,Human Resource,sub 7,REFERENCE,Prem,1200,10,7th,2014,Nepali,Ekta,2020,7th,107,260,BUY
+ISBN00130,TK,Thank you Mem,sub 8,NOVEL,Uttam,785,5,8th,2014,Hindi,Sajha,2021,8th,108,110,GIEFT

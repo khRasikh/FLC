@@ -1,0 +1,4 @@
+[
+  {"identity":"Stripe","logo":"stripe","link":"https://stripe.com","config":{"Publishable_Key":"", "Secret_Key":""},"status":0},
+  {"identity":"PayUMoney","logo":"payumoney","link":"https://www.payumoney.com","config":{"Merchant_Key":"", "Merchant_Salt":"", "Auth_Header":""},"status":0}
+]
